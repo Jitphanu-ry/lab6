@@ -14,7 +14,7 @@ int main(){
         cout << "Enter an integer: ";
         cin >> number;
     }
-
+    
     cout << "#Even numbers = " << even << endl;
     cout << "#Odd numbers = " << odd << endl;
     return 0;
